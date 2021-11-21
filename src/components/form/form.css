@@ -1,0 +1,21 @@
+.form {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form__input {
+  width: 80%;
+  height: 50px;
+  padding-left: 10px;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.form__input:focus {
+  outline: 2px solid #396eb0;
+}

@@ -1,0 +1,7 @@
+.userList {
+  width: 500px;
+  height: 550px;
+  border-radius: 8px;
+  overflow-x: hidden;
+  background-color: #daddfc;
+}
